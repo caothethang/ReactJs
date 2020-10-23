@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.header-bg {
+    color: white;
+    background-color: red;
+}
+
+.header-bg-name {
+    padding-top: 100px !important;
+}
+
+.header-bg-name h1 {
+    font-size: 60px;
+}
+
+.header-see-more {
+    width: fit-content;
+    background-color: turquoise;
+    padding: 8px 40px !important;
+    border-radius: 3px;
+    margin-top: 50px !important;
+}
+
+.some-card {
+    border-bottom: 1px solid #7e7e7e;
+}
+
+.card-body {
+    border-top: 1px solid red;
+}
+.group-btn{
+    text-align: center;
+}
+.group-btn i{
+    margin: 5px !important;
+}
